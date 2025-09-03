@@ -1,0 +1,7 @@
+//what is react and why is  it popular?
+
+React is a free and open-source JavaScript library for building user interfaces (UIs) 
+and single-page applications.
+It was created by Meta (formerly Facebook) and is used to develop interactive UIs for websites and mobile apps.
+
+
