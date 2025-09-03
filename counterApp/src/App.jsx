@@ -1,17 +1,18 @@
 import React, { useState } from 'react'
-// import Counter from './components/Counter'
-// import Timer from './components/Timer'
-import Parent from './components/Parent'
+import Counter from './components/Counter'
+import Timer from './components/Timer'
+
 
 const App = () => {
-  const [user] = useState({name:"varsha", age:20})
+ 
   return (
     <>
-    <Parent user={user}/>
-      {/* <Counter/> */}
-      {/* <Timer/> */}
+
+      <Counter/>
+      <Timer/>
     </>
   )
 }
 
 export default App
+
