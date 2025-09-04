@@ -11,7 +11,7 @@ const StateFull = () => {
     <button onClick={increment}>increment</button>
     <button onClick={decrement}>decrement</button>
   </div>
-  ;
+  
 };
 
 export default StateFull;
